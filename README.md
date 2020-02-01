@@ -12,9 +12,9 @@ The number of dives made by the profiler was calculated and included in the resu
 beginning and end of each dive was also recorded and used to plot the speed of sound for individual
 dives. A typical dive profile appears as shown:
 
+![alt text](https://github.com/mmunson2/BME450-Project1-CTDAnalysis/blob/master/Images/Sample_Dive_Depth_Profile.png "Sample Dive")
 
-
-
+Test
 
 
 
