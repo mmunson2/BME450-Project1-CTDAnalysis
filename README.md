@@ -154,17 +154,39 @@ Number of Dives:  9
 
 ### Compare the number of dives per day of the shallow profiler vs deep profiler:  
 
+On average shallow profilers make more dives per day than deep profilers. This is likely because  
+the distance traveled by the shallow profiler is less and more dives can therefore be fit into  
+one day.  
 
 ### Where is the maximum value of sspin each season? Explain why the max ssp should be there?  
 
+In the summer, the maximum speed of sound is near the surface. This is because speed of sound  
+increases with temperature, and the water is warmer during this season. In the winter, the  
+maximum speed of sound can be found at depth. This is because speed of sound increases with  
+salinity. While salinity at depth is relatively constant throughout the year, the low temperature  
+at the surface during the winter means the speed of sound at depth is relatively greater.  
 
-### Compare the ssp profile in day and nightof all profilers, explain what you find(effect of day vs night).  
+### Compare the ssp profile in day and nightof all profilers, explain what you find (effect of day vs night).  
 
+While it's difficult to determine from the graphs shown, the speed of sound at the surface is greater   
+during the day than at night. This is because the sun heats the water at the surface, and higher  
+temperatures allow sound to travel faster. This "flattens" the top of the speed of sound curve.  
+Because salinity remains relatively static between day and night, the lower half of the curve  
+remains constant.
 
-### Compare the ssp profile in summer and winterof all profilers, explain what you find(effect of season).  
+### Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).  
 
+The elevated temperatures in the summer cause the speed of sound to increase near the surface. This 
+accentuates the upper portion of the speed of sound curve. In the winter, surface temperatures are colder  
+so the top of the curve is flattened. This reduction in speed of sound may also be a result of increased  
+precipitation diluting the seawater and decreasing salinity. This would further decrease the speed of sound  
+near the surface.
 
-### Compare the average ssp profiles of all profilers recorded at the same day inwinter and summer (effect of location).  
+### Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).  
+
+When comparing the Axial Base Deep profiler with the Oregon Slope Base Deep profiler, there are slight differences in the  
+speed of sound versus depth curve. The slope base curve is more linear, with speed of sound increasing with depth at a  
+steady rate. The Axial Base curve has a much more pronounced minimum speed of sound in both Summer and Winter. The shallow profilers at both locations have relatively similar speed of sound vs. depth curves.
 
 
 
