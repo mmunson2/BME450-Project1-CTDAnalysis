@@ -150,7 +150,7 @@ Number of Dives:  9
 
 ![alt text](https://github.com/mmunson2/BME450-Project1-CTDAnalysis/blob/master/Plots/Oregon%20Slope%20Base%20Shallow%20Profiler%20-%20Winter%203.png "Plot")
 
-# Questions:  
+# Questions and Conclusion:  
 
 ### Compare the number of dives per day of the shallow profiler vs deep profiler:  
 
